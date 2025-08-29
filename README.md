@@ -6,15 +6,8 @@ Funcionalidades
 
 - Solicita al usuario el tamaño del arreglo, los valores y el número objetivo K.
 - Permite elegir entre tres métodos de resolución:
-  - Método clásico con doble ciclo for.
   - Método modular usando una clase externa (SumaArreglos).
   - Método eficiente con diccionario hash (SolucionHash).
-
-Algoritmos implementados
-
-- Fuerza bruta (O(n²)): compara todos los pares posibles.
-- HashSet (O(n)): guarda los elementos vistos y busca el complemento en tiempo constante.
-- Modularización: separa la lógica en clases para aplicar principios de encapsulamiento.
 
 Cómo ejecutar
 
@@ -30,8 +23,4 @@ Archivos recomendados
 - SumaArreglos.java: clase modular con método clásico.
 - SolucionHash.java: clase con método eficiente usando diccionario hash.
 
-Ideal para
-
-- Estudiantes de Diseño y Análisis de Algoritmos.
-- Comparar eficiencia entre métodos.
-- Aprender estructuras como HashSet y aplicar encapsulamiento.
+Espero le guste mi código :D
